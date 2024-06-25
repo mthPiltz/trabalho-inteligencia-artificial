@@ -31,9 +31,12 @@ import pandas as pd
 
 # df = pd.read_csv(r"datasets\weather_classification_data\weather_classification_data.csv")
 # print(df.head()) # dados artificiais do tipo de clima| target Type
+# precisa apenas normalizar
 
 # df = pd.read_csv(r"datasets\Student_performance_data _\Student_performance_data _.csv")
 # print(df.head()) # dados artificiais do desempenho de estudantes| target GradeClass
+# precisa apenas normalizar
 
 # df = pd.read_csv(r"datasets\air_quality_health_impact_data\air_quality_health_impact_data.csv")
 # print(df.head()) # dados sobre a qualidade do ar e impacto na saude publica| target HealthImpactClass
+# normalizar e rotular
